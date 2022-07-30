@@ -36,6 +36,7 @@ polygon {
     stroke: black;
     fill: transparent;
     transition: 2s;  
+    touch-action: manipulation;
 }
 polygon:hover {
     fill: #66ff00;
