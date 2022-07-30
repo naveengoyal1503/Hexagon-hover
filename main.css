@@ -40,4 +40,5 @@ polygon {
 polygon:hover {
     fill: #66ff00;
     transition: 0s;
+    touch-action: manipulation;
 }
